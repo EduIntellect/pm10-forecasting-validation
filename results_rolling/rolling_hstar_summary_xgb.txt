@@ -1,0 +1,23 @@
+========================================================================
+ROLLING-ORIGIN H* SUMMARY (XGBoost vs lag-1 persistence)
+========================================================================
+
+Protocol: monthly rolling-origin, expanding train, evaluation 2020-01-01 to 2023-12-31
+Initial train: 2017-01-01 to 2019-12-31
+Horizons: [1, 2, 3, 4, 5, 6, 7]
+Minimum valid test observations per fold-horizon: 15
+
+Valid fold months (with at least one valid horizon): 47
+H*: 7
+Global skill range across valid fold-horizon pairs: [-1.750, 0.745]
+
+Mean skill by horizon:
+  h=1: mean=-0.192, std=0.330, n_folds=47
+  h=2: mean=0.004, std=0.243, n_folds=47
+  h=3: mean=-0.022, std=0.430, n_folds=47
+  h=4: mean=0.005, std=0.366, n_folds=47
+  h=5: mean=0.067, std=0.283, n_folds=47
+  h=6: mean=0.091, std=0.231, n_folds=47
+  h=7: mean=0.137, std=0.200, n_folds=47
+
+========================================================================
