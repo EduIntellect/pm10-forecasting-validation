@@ -1,0 +1,11 @@
+======================================================================
+OPERATIONAL PREDICTABILITY LIMIT (H*) SUMMARY
+======================================================================
+
+Operational Predictability Limit: H* = 7 days
+Minimum skill (h=3): 23.1%
+Maximum skill (h=1): 29.9%
+Mean skill (h=1-7): 25.9%
+All horizons h=1-7: Skill > 0 ✓
+
+======================================================================
