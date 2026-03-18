@@ -10,7 +10,7 @@ Date: March 2026
 REFERENCE:
 García Crespí, F., Yubero Funes, E., & Alfosea Simón, M. (2026).
 "Operational Predictability Limits in Multi-Step PM10 Forecasting: 
-A Systematic Audit and Reproducible Evaluation Framework for Temporal Validation."
+A Reproducible Evaluation Framework for Temporal Validation."
 Atmospheric Environment (in review).
 
 USAGE:
