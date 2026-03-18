@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: García Crespí
+    given-names: Federico
+    affiliation: Universidad Miguel Hernández de Elche
+  - family-names: Yubero Funes
+    given-names: Eduardo
+    affiliation: Universidad Miguel Hernández de Elche
+  - family-names: Alfosea Simón
+    given-names: Marina
+    affiliation: Universidad Miguel Hernández de Elche
+title: "pm10-forecasting-validation"
+abstract: "Code and reproducible materials for deployment-realistic evaluation of multi-step PM10 forecasting using rolling-origin validation, train-only preprocessing, persistence-relative skill, and the operational predictability limit H*."
+version: 1.0.0
+date-released: 2026-03-18
+repository-code: https://github.com/EduIntellect/pm10-forecasting-validation
+url: https://github.com/EduIntellect/pm10-forecasting-validation
+license: CC-BY-4.0
+keywords:
+  - PM10
+  - rolling-origin validation
+  - forecast skill
+  - XGBoost
+  - SARIMA
+  - operational predictability

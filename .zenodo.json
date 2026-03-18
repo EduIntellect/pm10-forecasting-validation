@@ -1,0 +1,13 @@
+{
+  "title": "pm10-forecasting-validation",
+  "description": "Code and reproducible materials for deployment-realistic evaluation of multi-step PM10 forecasting using rolling-origin validation, train-only preprocessing, persistence-relative skill, and the operational predictability limit H*. Includes rolling-origin and static-split evaluation workflows for XGBoost and SARIMA.",
+  "creators": [
+    {"name": "García Crespí, Federico", "affiliation": "Universidad Miguel Hernández de Elche"},
+    {"name": "Yubero Funes, Eduardo", "affiliation": "Universidad Miguel Hernández de Elche"},
+    {"name": "Alfosea Simón, Marina", "affiliation": "Universidad Miguel Hernández de Elche"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["PM10", "rolling-origin validation", "forecast skill", "XGBoost", "SARIMA", "operational predictability"],
+  "upload_type": "software",
+  "access_right": "open"
+}
